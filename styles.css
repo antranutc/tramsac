@@ -77,12 +77,12 @@ body {
     font-size: 14px;
     text-align: center;
 }
-.change-red {
-    color: red; /* Màu chữ đỏ cho cột Biến động */
+.content-green {
+    color: green !important;
     font-weight: bold;
 }
 
-.content-green {
-    color: green; /* Màu chữ xanh lá cho cột Nội dung */
+.content-red {
+    color: red !important;
     font-weight: bold;
 }
