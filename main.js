@@ -1,5 +1,5 @@
 // Hàm kiểm tra và lấy giá trị cookie
-var device_id = 'ws_027a3c914f2b';
+var device_id = 'ws_1777041042219';
 var murl_c;
 let url;
 function getCookie(name) {
@@ -18,7 +18,7 @@ const deviceId = getCookie('device_id');
 if (deviceId) {
 
   // Thực hiện hành động nếu cookie tồn tại
-  device_id = deviceId;
+//  device_id = deviceId;
 } else {
   // Thực hiện hành động nếu cookie không tồn tại
 }
